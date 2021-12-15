@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @creengrack
+- 👀 I’m interested in ... Trading and business!
+- 🌱 I’m currently learning JS, pinescript, and linux.
+- 💞️ I’m looking to collaborate on Web/app businesses - trading/finance
+- 📫 How to reach me chargers6598@gmail.com 
