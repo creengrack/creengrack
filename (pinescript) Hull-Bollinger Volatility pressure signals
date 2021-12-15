@@ -21,3 +21,14 @@ plotshape(entry_sell, title = "Warning",style= shape.arrowdown,text= "       ---
 
 entry_long2 = ta.crossover(close, upper)
 plotshape(entry_long2, title = "buy",style= shape.arrowup,text= "^", color=color.green,location= location.belowbar)
+
+// 
+
+Indicator for DAILY candle usage on BITCOIN
+I have not tested this script on anything else
+
+^ markings indicate upward pressure (be careful- bullish but wait for entry using smaller TFs and separate indicators)
+
+LONG markings indicate just that- but with more pressure and long term bottom scenarios
+
+------- or 'heat lines' indicate price has moved to high to fast. When they print expect a tad more upward pressure as price consolidates at highs. Still plausible for short entries- more plausible for closing longs. 
